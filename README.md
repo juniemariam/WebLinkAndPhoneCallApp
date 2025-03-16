@@ -1,2 +1,0 @@
-# WebLinkAndPhoneCallApp
-Implicit Intent
